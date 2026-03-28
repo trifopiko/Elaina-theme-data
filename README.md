@@ -1,4 +1,4 @@
 # Attention !!
-This is Npm data package for Elaina theme
+This is Npm data package for triforce theme (tajen from elaina)
 
-If you want to download theme,open [this](https://github.com/Elaina69/Elaina-V4)
+If you want to download elaina's theme, open [this](https://github.com/Elaina69/Elaina-V4)
