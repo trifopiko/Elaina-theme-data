@@ -1,7 +1,7 @@
 {
   "name": "elaina-theme-data",
   "version": "4.4.2",
-  "description": "Data files for Elaina theme",
+  "description": "Data files for triforce theme",
   "main": "index.js",
   "files": [
     "cdninit.js",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/Elaina69/Elaina-V4.git"
   },
-  "author": "Elaina Da Catto",
+  "author": "piko",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Elaina69/Elaina-V4/issues"
