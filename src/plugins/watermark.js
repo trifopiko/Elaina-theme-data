@@ -74,7 +74,7 @@ function ElainaTrigger() {
 	const lang = document.querySelector("html").lang;
 	const langs = ["ja-JP", "ko-KR", "zh-CN", "zh-TW"];
 
-	wtmark.innerHTML = langs.includes(lang)? "" : wtmark.innerHTML = "By Elaina Da Catto";
+	wtmark.innerHTML = langs.includes(lang)? "" : wtmark.innerHTML = "By piko";
 
 	Greeting.classList.add ("Greeting")
 	headpat.classList.add  ("Headpat")
